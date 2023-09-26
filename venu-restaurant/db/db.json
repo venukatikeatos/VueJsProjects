@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "venu",
+      "email": "venukatike02@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Venu Katike",
+      "address": "ptown",
+      "contact": "910234244",
+      "id": 1
+    },
+    {
+      "name": "Atos Resta",
+      "address": "Pune",
+      "contact": "6303326134",
+      "id": 2
+    }
+  ]
+}
